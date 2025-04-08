@@ -1,9 +1,10 @@
 
-# Ignore Pyhton notebook chekcpoint, google sheets, google docs
+# Ignore Pyhton notebook chekcpoint, google sheets, google docs and .pdfs
 *.ipynb_checkpoints
 *.gsheet
 *.gdoc
 *.docx
+*.pdf
 
 # Ignore .DS_Store as it stores meta data like icon positions, folder view setting, window size, scroll position
 .DS_Store
