@@ -7,3 +7,6 @@
 
 # Ignore .DS_Store as it stores meta data like icon positions, folder view setting, window size, scroll position
 .DS_Store
+
+# Ignore Final Delivarble folder
+00 - Final Deliverable/
